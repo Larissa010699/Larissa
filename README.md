@@ -10,9 +10,10 @@ Gosto de tecnologia, inovação e aprendizado contínuo. Atualmente, estou estud
 🔄 Metodologia Ágil
 💡 Design Thinking
 🎓 Cursos
-Operador de Computador
-Operador de Caixa
+Operador de Computador,
+Operador de Caixa,
 Atendente de Farmácia
+
 🌱 Sobre mim
 
 Estou iniciando minha jornada no GitHub para compartilhar meus estudos, desenvolver projetos e acompanhar minha evolução na programação.
