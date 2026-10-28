@@ -1,7 +1,7 @@
 👩‍💻 Olá, eu sou Larissa Graziele!
 💜 Estudante de Programação de Sistemas | Apaixonada por tecnologia
 
-Tenho 27 anos e gosto de tecnologia, inovação e aprendizado contínuo. Atualmente, estou estudando Programação de Sistemas e desenvolvendo meus conhecimentos na área de desenvolvimento.
+Gosto de tecnologia, inovação e aprendizado contínuo. Atualmente, estou estudando Programação de Sistemas e desenvolvendo meus conhecimentos na área de desenvolvimento.
 
 🚀 Conhecimentos
 💻 Lógica de Programação
@@ -27,4 +27,4 @@ Acredito que a tecnologia abre portas para novas possibilidades e estou sempre d
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-✨ Aprendendo hoje, evoluindo sempre e construindo meu futuro na tecnologia! 💜# Larissa
+✨ Aprendendo hoje, evoluindo sempre e construindo meu futuro na tecnologia! 💜
